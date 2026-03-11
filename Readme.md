@@ -147,10 +147,10 @@ This isn’t just about code. It’s about:
 
 ---
 
-## 🌟 Day 249 Reflection  
+## 🌟 Day 250 Reflection  
 > “LOVE? which bird is this ? ℠ ”  
 
-Day 249 is not an end.  
+Day 250 is not an end.  
 It’s proof that discipline > doubt.  
 The next checkpoint? **Day 200**. Cupertino, we’re coming.  
 
