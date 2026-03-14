@@ -35,7 +35,7 @@ This isn’t just about code. It’s about:
 
 ---
 
-## ✅ Daily Progress Tracker (Day 252 Update)  
+## ✅ Daily Progress Tracker (Day 253 Update)  
 
 | Day   | Status  | Notes  |
 |-------|---------|--------|
@@ -147,10 +147,10 @@ This isn’t just about code. It’s about:
 
 ---
 
-## 🌟 Day 252 Reflection  
+## 🌟 Day 253 Reflection  
 > “LOVE? which bird is this ? ℠ ”  
 
-Day 252 is not an end.  
+Day 253 is not an end.  
 It’s proof that discipline > doubt.  
 The next checkpoint? **Day 200**. Cupertino, we’re coming.  
 
