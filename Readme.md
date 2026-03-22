@@ -35,7 +35,7 @@ This isn’t just about code. It’s about:
 
 ---
 
-## ✅ Daily Progress Tracker (Day 260 Update)  
+## ✅ Daily Progress Tracker (Day 261 Update)  
 
 | Day   | Status  | Notes  |
 |-------|---------|--------|
@@ -114,6 +114,7 @@ This isn’t just about code. It’s about:
 | 240    | ✅ Done | Portfolio-check |
 | 205    | ✅ Done | Like what 250 |
 | 257    | ✅ Done | Payment bro |
+| 257    | ✅ Done | Remember the date |
 
 
 
@@ -148,10 +149,10 @@ This isn’t just about code. It’s about:
 
 ---
 
-## 🌟 Day 260 Reflection  
+## 🌟 Day 261 Reflection  
 > “LOVE? which bird is this ? ℠ ”  
 
-Day 260 is not an end.  
+Day 261 is not an end.  
 It’s proof that discipline > doubt.  
 The next checkpoint? **Day 200**. Cupertino, we’re coming.  
 
